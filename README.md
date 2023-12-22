@@ -1,3 +1,7 @@
+# Environment
+--Vue Version__: 3.2.36 <br>
+
+
 # Webpack 기본 템플릿
 
 __webpack__: 모듈(패키지) 번들러의 핵심 패키지<br>
